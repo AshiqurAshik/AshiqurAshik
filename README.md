@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/AshiqurAshik/AshiqurAshik/blob/main/portfolio-img?raw=true" alt="Banner" />
+  <img src="./portfolio-img.png" alt="Banner" />
 </p>
 
 # 👋 Hi, I'm **MD ASHIQUR RAHMAN**
