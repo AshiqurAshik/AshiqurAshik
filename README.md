@@ -34,6 +34,28 @@ I enjoy turning ideas into beautiful, functional UI experiences using modern web
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" />
 </p>
 
+## 🎨 Design
+I focus on creating **clean, modern, and user-friendly interfaces**.  
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="40" title="Figma" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-line.svg" width="40" title="Adobe Photoshop" />
+</p>
+- Responsive layouts for desktop and mobile.  
+- Interactive UI components using **React** and **Tailwind CSS**.  
+- Consistent color schemes and typography for professional look.  
+
+---
+
+## 🚀 Deployment
+I deploy projects on platforms like:  
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vercel/vercel-original.svg" width="40" title="Vercel" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/netlify/netlify-original.svg" width="40" title="Netlify" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" width="40" title="Firebase" />
+</p>
+This ensures projects are **live, accessible, and responsive** on the web.
+
+
 ---
 
 ## 📌 Featured Projects
