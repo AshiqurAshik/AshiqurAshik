@@ -4,7 +4,7 @@
 
 # 👋 Hi, I'm **MD ASHIQUR RAHMAN**
 
-💻 **Frontend Developer | Web Developer**  
+💻 **Frontend Developer | MERN Developer**  
 🇧🇩 Bangladesh  
 
 ---
