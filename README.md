@@ -1,4 +1,3 @@
-<!-- Banner -->
 <p align="center">
   <img src="./portfolio-img.png" alt="Banner" />
 </p>
@@ -6,21 +5,20 @@
 <h1 align="center">👋 Hi, I'm <span style="color:#5b8de0;">MD ASHIQUR RAHMAN</span></h1>
 
 <p align="center">
-  <b>Frontend Developer | MERN Stack Developer</b><br/>
-  🌍 Bangladesh
+  <img src="https://readme-typing-svg.herokuapp.com?size=28&duration=3000&color=5B8DE0&center=true&vCenter=true&lines=Frontend+Developer;MERN+Stack+Developer;Full+Stack+Developer" />
 </p>
 
 ---
 
-## 🎯 **About Me**
-I’m a passionate developer focused on creating **clean, modern & interactive web experiences**.  
-I enjoy building smooth UI, functional features, and beautiful layouts using the latest web technologies.
+## 🎯 About Me
+I’m a dedicated frontend & MERN developer who builds **clean, responsive, and modern web applications**.  
+Skilled at converting **Figma and Pixso designs into production-ready code** using React and Tailwind CSS.
 
 ---
 
-## ⚡ **Tech Stack**
+## ⚡ Tech Stack
 
-### 🚀 **Frontend**
+### 🚀 Frontend
 <p align="left">
   <img src="https://skillicons.dev/icons?i=html" height="40"/>
   <img src="https://skillicons.dev/icons?i=css" height="40"/>
@@ -29,7 +27,7 @@ I enjoy building smooth UI, functional features, and beautiful layouts using the
   <img src="https://skillicons.dev/icons?i=tailwind" height="40"/>
 </p>
 
-### 🔧 **Backend / Tools**
+### 🔧 Backend / Tools
 <p align="left">
   <img src="https://skillicons.dev/icons?i=nodejs" height="40"/>
   <img src="https://skillicons.dev/icons?i=express" height="40"/>
@@ -39,42 +37,38 @@ I enjoy building smooth UI, functional features, and beautiful layouts using the
 
 ---
 
-## 🎨 **UI/UX & Design**
+## 🎨 Design Sources (Figma & Pixso)
 <p>
   <img src="https://skillicons.dev/icons?i=figma" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-line.svg" height="40"/>
+  <img src="https://img.icons8.com/?size=512&id=124491&format=png" height="40" title="Pixso"/>
 </p>
 
-✨ I design:  
-- Clean and modern UI  
-- Fully responsive layouts  
-- Professional color palettes and typography  
-- Frontend animations with React + Tailwind  
+I convert **Figma** and **Pixso** layouts into:  
+✔ Pixel-perfect UI  
+✔ Fully responsive pages  
+✔ Clean React + Tailwind components  
+✔ Smooth and modern layouts  
 
 ---
 
-## 🚀 **Deployment Platforms**
+## 🚀 Deployment Platforms
 <p>
   <img src="https://skillicons.dev/icons?i=vercel" height="40"/>
   <img src="https://skillicons.dev/icons?i=netlify" height="40"/>
   <img src="https://skillicons.dev/icons?i=firebase" height="40"/>
 </p>
 
-🌐 Fast, reliable, and globally optimized hosting for all my projects.
+---
+
+## ⭐ Featured Projects
+- 🖥️ **Portfolio Website** – Modern personal portfolio built with React  
+- ⚛️ **React Applications** – Interactive, smooth, professional apps  
+- 🌐 **MERN & API Projects** – Full-stack functional projects  
+- 🎨 **Figma / Pixso to Code** – Transforming UI designs into real websites  
 
 ---
 
-## ⭐ **Featured Projects**
-Here are some highlights from my work:
-
-- 🎨 **Portfolio Website** – Clean & modern personal portfolio.  
-- ⚛️ **React Apps** – Dynamic, interactive, and responsive apps.  
-- 🌐 **API Projects** – Full-stack API-powered applications.  
-- 🧩 **Frontend UI Components** – Reusable UI elements and layouts.
-
----
-
-## 📊 **GitHub Stats**
+## 📊 GitHub Stats
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=AshiqurAshik&show_icons=true&theme=tokyonight" height="160" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=AshiqurAshik&theme=tokyonight" height="160" />
@@ -86,9 +80,9 @@ Here are some highlights from my work:
 
 ---
 
-## 📫 **Contact Me**
+## 📫 Contact Me
 📧 Email: **rashiqur688@gmail.com**  
-🌍 Portfolio: *(Add link soon)*  
+🌍 Portfolio: *coming soon*  
 
 ---
 
