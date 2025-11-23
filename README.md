@@ -1,83 +1,95 @@
+<!-- Banner -->
 <p align="center">
   <img src="./portfolio-img.png" alt="Banner" />
 </p>
 
-# 👋 Hi, I'm **MD ASHIQUR RAHMAN**
+<h1 align="center">👋 Hi, I'm <span style="color:#5b8de0;">MD ASHIQUR RAHMAN</span></h1>
 
-💻 **Frontend Developer | MERN Developer**  
-🇧🇩 Bangladesh  
-
----
-
-## 🚀 About Me
-I’m a passionate Frontend & Web Developer who loves creating clean, modern, and responsive web interfaces.  
-I enjoy turning ideas into beautiful, functional UI experiences using modern web technologies.
-
----
-
-## 🛠 Tech Stack
-
-### **Frontend**
-<p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" width="40" />
-</p>
-
-### **Backend / Tools**
-<p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" />
-</p>
-
-## 🎨 Design
-I focus on creating **clean, modern, and user-friendly interfaces**.  
-<p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="40" title="Figma" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-line.svg" width="40" title="Adobe Photoshop" />
-</p>
-- Responsive layouts for desktop and mobile.  
-- Interactive UI components using **React** and **Tailwind CSS**.  
-- Consistent color schemes and typography for professional look.  
-
----
-
-## 🚀 Deployment
-I deploy projects on platforms like:  
-<p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vercel/vercel-original.svg" width="40" title="Vercel" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/netlify/netlify-original.svg" width="40" title="Netlify" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" width="40" title="Firebase" />
-</p>
-This ensures projects are **live, accessible, and responsive** on the web.
-
-
----
-
-## 📌 Featured Projects
-- **Portfolio Website** – Showcasing my frontend and React skills.  
-- **Frontend UI Projects** – Modern UI components and layouts.  
-- **React Apps** – Interactive web applications with React.  
-- **API Integrated Web Apps** – Full-stack apps using APIs and databases.
-
----
-
-## 📊 GitHub Stats
-<p>
-  <img src="https://github-readme-stats.vercel.app/api?username=AshiqurAshik&show_icons=true&theme=tokyonight" height="150"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AshiqurAshik&theme=tokyonight" height="150"/>
+<p align="center">
+  <b>Frontend Developer | MERN Stack Developer</b><br/>
+  🌍 Bangladesh
 </p>
 
 ---
 
-## 📫 Contact Me
+## 🎯 **About Me**
+I’m a passionate developer focused on creating **clean, modern & interactive web experiences**.  
+I enjoy building smooth UI, functional features, and beautiful layouts using the latest web technologies.
+
+---
+
+## ⚡ **Tech Stack**
+
+### 🚀 **Frontend**
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=html" height="40"/>
+  <img src="https://skillicons.dev/icons?i=css" height="40"/>
+  <img src="https://skillicons.dev/icons?i=javascript" height="40"/>
+  <img src="https://skillicons.dev/icons?i=react" height="40"/>
+  <img src="https://skillicons.dev/icons?i=tailwind" height="40"/>
+</p>
+
+### 🔧 **Backend / Tools**
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=nodejs" height="40"/>
+  <img src="https://skillicons.dev/icons?i=express" height="40"/>
+  <img src="https://skillicons.dev/icons?i=mongodb" height="40"/>
+  <img src="https://skillicons.dev/icons?i=git" height="40"/>
+</p>
+
+---
+
+## 🎨 **UI/UX & Design**
+<p>
+  <img src="https://skillicons.dev/icons?i=figma" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-line.svg" height="40"/>
+</p>
+
+✨ I design:  
+- Clean and modern UI  
+- Fully responsive layouts  
+- Professional color palettes and typography  
+- Frontend animations with React + Tailwind  
+
+---
+
+## 🚀 **Deployment Platforms**
+<p>
+  <img src="https://skillicons.dev/icons?i=vercel" height="40"/>
+  <img src="https://skillicons.dev/icons?i=netlify" height="40"/>
+  <img src="https://skillicons.dev/icons?i=firebase" height="40"/>
+</p>
+
+🌐 Fast, reliable, and globally optimized hosting for all my projects.
+
+---
+
+## ⭐ **Featured Projects**
+Here are some highlights from my work:
+
+- 🎨 **Portfolio Website** – Clean & modern personal portfolio.  
+- ⚛️ **React Apps** – Dynamic, interactive, and responsive apps.  
+- 🌐 **API Projects** – Full-stack API-powered applications.  
+- 🧩 **Frontend UI Components** – Reusable UI elements and layouts.
+
+---
+
+## 📊 **GitHub Stats**
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=AshiqurAshik&show_icons=true&theme=tokyonight" height="160" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AshiqurAshik&theme=tokyonight" height="160" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AshiqurAshik&theme=tokyonight" />
+</p>
+
+---
+
+## 📫 **Contact Me**
 📧 Email: **rashiqur688@gmail.com**  
-🌐 Portfolio: *(Add your link when ready)*  
+🌍 Portfolio: *(Add link soon)*  
 
 ---
 
-### ⭐ Thanks for visiting my profile!
+<h3 align="center">⭐ Thanks for visiting my profile! ⭐</h3>
