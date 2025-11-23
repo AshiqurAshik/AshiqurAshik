@@ -40,9 +40,8 @@ Skilled at converting **Figma and Pixso designs into production-ready code** usi
 ## 🎨 Design Sources (Figma & Pixso)
 <p>
   <img src="https://skillicons.dev/icons?i=figma" height="40"/>
- <img src="https://raw.githubusercontent.com/PixsoDev/Pixso-Brand/main/svg/pixso-icon.svg" height="40" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-line.svg" width="40" title="Adobe Photoshop" /> </p></p>
 
-</p>
 
 I convert **Figma** and **Pixso** layouts into:  
 ✔ Pixel-perfect UI  
